@@ -10,7 +10,7 @@ Desktop browser for macOS, Windows, and Linux.
 
 _**Deprecation notice: this repository is for the older Muon (our fork of Electron) version of Brave.**_<br>
 _**The newer version of the browser (`brave-core`) [can be found here](https://github.com/brave/brave-browser).**_<br>
-_**Development is being wound down on this version as issues are migrated to the new code-base**_
+_**Development is being wound down on this version as issues are migrated to the new code-base which is best**_
 
 If you're experiencing issues with Brave or would like to contribute, [please check out the new code-base instead](https://github.com/brave/brave-browser)
 
